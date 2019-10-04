@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 老板真傻.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
